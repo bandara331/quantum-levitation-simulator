@@ -1,0 +1,21 @@
+# Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.spec
+
+# IDEs
+.vscode/
+.idea/
