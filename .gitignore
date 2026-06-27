@@ -19,3 +19,6 @@ dist/
 # IDEs
 .vscode/
 .idea/
+
+# Local Docs
+LINKEDIN_POST.md
